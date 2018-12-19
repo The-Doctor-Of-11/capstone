@@ -2605,3 +2605,6 @@ footer .copy-right-text a {
   background-color: #DDF;
   color: #000;
 }
+html {
+  scroll-behavior: smooth;
+}
